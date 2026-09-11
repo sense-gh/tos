@@ -116,7 +116,7 @@ Where law permits a limitation, Sense's total liability for ordinary contract cl
 
 ## 16. Resolving concerns without giving up rights
 
-Contact hello@sense.inc with a concern. We will try in good faith to resolve it. Contacting us is not a mandatory waiting period before seeking urgent relief, using small claims court, making a regulator complaint, or preserving a filing deadline.
+Contact [hello@sense.inc](mailto:hello@sense.inc) with a concern. We will try in good faith to resolve it. Contacting us is not a mandatory waiting period before seeking urgent relief, using small claims court, making a regulator complaint, or preserving a filing deadline.
 
 There is no mandatory arbitration, class-action waiver, jury-trial waiver, or ban on public injunctive relief. Subject to mandatory law, California substantive law governs without using a conflict-of-laws rule to remove protections of your home jurisdiction. You may bring an eligible consumer claim in a court with jurisdiction where you live or where Sense is legally subject to suit. We do not require an exclusive distant forum. Any arbitration must be voluntarily agreed after a particular dispute arises.
 
@@ -137,9 +137,9 @@ If a provision is unenforceable, it is limited or removed only to the minimum ne
 ## 19. Contact and publication details
 
 **Company:** Sense Inc.
-**Consumer, privacy, and legal contact:** legal@sense.inc.
+**Consumer, privacy, and legal contact:** [legal@sense.inc](mailto:legal@sense.inc).
 **Business mailing address:** 3857 Birch St #198, Newport Beach, CA 92660.
 **Publication/effective dates:** 09/11/26.
-**Canonical source:** https://github.com/sense-gh/tos.
+**Canonical source:** [sense-gh/tos](https://github.com/sense-gh/tos).
 
 Note: Do not post personal information, account records, or vulnerabilities in a public GitHub issue. Use the private contact channel instead.
