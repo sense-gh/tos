@@ -76,6 +76,8 @@ We will not impose a paid renewal without separately obtained consent. Online su
 
 A trial will not convert into a paid plan without clearly disclosed terms and affirmative authorization. We will not charge for an unavailable future capability merely because it appeared in the teaser. Third-party usage costs require prior disclosure and your authorization.
 
+**Referral credits.** After a confirmed launch signup, Sense may give you a referral code and link to share. Each 15 qualifying new people who use that code or link and independently complete a confirmed Sense launch signup earns you one month of the future paid Sense consumer software-update service at no charge. Launch-update emails remain free. A qualifying referral must be a distinct, genuine person completing their own signup and email confirmation; self-referrals, duplicate identities, automated or fraudulent registrations, and signups later determined to be ineligible do not count. Referral credits have no cash value, are not transferable, and cannot be redeemed before the paid update service is available. Sense will preserve confirmed referral attribution so earned credits can be calculated later, and will disclose the redemption mechanics before charging for the update service. We may correct counts for fraud, duplication, technical error, or account deletion, but will not reduce valid earned credits merely by changing the program after they are earned. If you publicly recommend Sense using a referral link or code, clearly disclose that qualifying signups can earn you a Sense reward.
+
 ## 10. Privacy, communications, export, and deletion
 
 The separately published Privacy Notice describes the information actually collected, purposes, recipients, retention, and rights process. We will collect only information reasonably needed for the stated purpose. Optional diagnostics and marketing need separate, specific choices; they must not be a condition of basic paid functionality unless genuinely necessary and explained before purchase.
@@ -139,7 +141,7 @@ If a provision is unenforceable, it is limited or removed only to the minimum ne
 **Company:** Sense Inc.
 **Consumer, privacy, and legal contact:** [legal@sense.inc](mailto:legal@sense.inc).
 **Business mailing address:** 3857 Birch St #198, Newport Beach, CA 92660.
-**Publication/effective dates:** 09/11/26.
+**Publication/effective dates:** 09/12/26.
 **Canonical source:** [sense-gh/tos](https://github.com/sense-gh/tos).
 
 Note: Do not post personal information, account records, or vulnerabilities in a public GitHub issue. Use the private contact channel instead.
